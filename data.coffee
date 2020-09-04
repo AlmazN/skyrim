@@ -4,9 +4,9 @@ window.perkTrees = [
     cname: 'alchemy'
     perks: [
       {
-        name: 'Alchemist'
+        name: 'Рушанчик'
         levels: 5
-        desc: ['Potions and poisons you make are 20% stronger.', 'Potions and poisons you make are 40% stronger.', 'Potions and poisons you make are 60% stronger.', 'Potions and poisons you make are 80% stronger.', 'Potions and poisons you make are 100% stronger.']
+        desc: ['Рушанчик1', 'Potions and poisons you make are 40% stronger.', 'Potions and poisons you make are 60% stronger.', 'Potions and poisons you make are 80% stronger.', 'Potions and poisons you make are 100% stronger.']
         req: [0, 20, 40, 60, 80]
         pos: [0, 0]
         id: ['000BE127', '000C07CA', '000C07CB', '000C07CC', '000C07CD']
