@@ -2,8 +2,8 @@
 
   window.perkTrees = [
     {
-      name: 'Alchemy',
-      cname: 'alchemy',
+      name: 'Алхимия',
+      cname: 'алхимия',
       perks: [
         {
           name: 'Рушанчик',
