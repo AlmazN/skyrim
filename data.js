@@ -6,14 +6,14 @@
       cname: 'алхимия',
       perks: [
         {
-          name: 'Рушанчик',
+          name: 'Алхимик',
           levels: 5,
           desc: ['Рушанчик1', 'Potions and poisons you make are 40% stronger.', 'Potions and poisons you make are 60% stronger.', 'Potions and poisons you make are 80% stronger.', 'Potions and poisons you make are 100% stronger.'],
           req: [0, 20, 40, 60, 80],
           pos: [0, 0],
           id: ['000BE127', '000C07CA', '000C07CB', '000C07CC', '000C07CD']
         }, {
-          name: 'Physician',
+          name: 'Лекарь',
           desc: ['Potions you mix that restore Health, Magicka or Stamina are 25% more powerful.'],
           req: [20],
           pos: [110, -21],
